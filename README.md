@@ -1,11 +1,10 @@
 ## Ola eu sou o Paulo, Desenvolvedor e estudante de software!
-<div class="row">
-  <div align="center">
+<div align="center">
     <a href="https://github.com/paulohtk">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohtk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohtk&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-  </div>
 </div>
+
 <div align="center"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
