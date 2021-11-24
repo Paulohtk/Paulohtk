@@ -1,5 +1,5 @@
 ## Ola eu sou a Paulo, Desenvolvedor e estudante de software!
-<div style="inline: block">
+<div style="display: inline-block">
   <a href="https://github.com/paulohtk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohtk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohtk&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
