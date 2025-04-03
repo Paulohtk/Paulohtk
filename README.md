@@ -1,4 +1,4 @@
-Olá, seja bem vindo ao meu perfil, sou Desenvolvedor e estudante de software!
+Olá, seja bem vindo ao meu perfil!
 <div align="center">
     <a href="https://github.com/paulohtk">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohtk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
